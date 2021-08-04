@@ -1,1 +1,1 @@
-# BookProject
+# SOLID principles
